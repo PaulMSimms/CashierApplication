@@ -1,0 +1,33 @@
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csprojAssemblyReference.cache
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmLoginAccount.resources
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\601-PC\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csprojAssemblyReference.cache
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmLoginAccount.resources
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\PC 603\Desktop\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\p\Desktop\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\p\Desktop\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\p\Desktop\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb
+C:\Users\p\Desktop\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmLoginAccount.resources
